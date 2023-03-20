@@ -8,19 +8,19 @@
 
 A aplicação inicia na lista de personagens, com design baseado em cards, que renderizam nome e imagem do personagem provindas da API oficial da Marvel.
 
-<img width="1500px" src="./demo/pagina-inicial.png">
+<img width="1000px" src="./demo/pagina-inicial.png">
 
 ### Busca de personagem por nome
 
 No topo da página, há uma barra de pesquisa onde pode ser buscado um personagem pelo nome, utilizando um parâmeto da API.
 
-<img width="1500px" src="./demo/busca-por-nome.gif">
+<img width="1000px" src="./demo/busca-por-nome.gif">
 
 ### Modal contendo detalhes do personagem
 
 Ao clicar em um card, um modal contendo nome, imagem, descrição e quadrinhos nos quais o personagem aparece renderiza na tela do usuário. Modal foi feito utilizando a biblioteca de UI do próprio Angular, o Angular Material. 
 
-<img width="1500px" src="./demo/detalhes-dos-personagens.gif">
+<img width="1000px" src="./demo/detalhes-dos-personagens.gif">
 
 Ao clicar no "MORE" o usuario sera redirecionado ao site da marvel apresentando mais quadrinhos referente ao personagem buscado.
 
