@@ -32,6 +32,8 @@ Ao clicar no "MORE" o usuario sera redirecionado ao site da marvel apresentando 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
+O projeto esta hospedado na vercel, <a href="https://valinor-marvel-api.vercel.app/" target="_blank">clicando aqui</a>, voce sera redirecionado ao projeto final. Caso nao funcione, aqui esta o link: https://valinor-marvel-api.vercel.app/
+
 # Princípios de Engenharia de Software 
 
 Neste projeto, utilizei o princípio de SRP - (Single Responsibility Principle), buscando dar a cada component do angular uma unica responsabilidade, facilitando o uso e deixando o codigo organizado.
