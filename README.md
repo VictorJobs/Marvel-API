@@ -32,32 +32,32 @@ Ao clicar no "MORE" o usuario sera redirecionado ao site da marvel apresentando 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
-# Projeto esta na vercel 
+# Projeto está na vercel 
 
-O projeto esta hospedado na vercel, <a href="https://valinor-marvel-api.vercel.app/" target="_blank">clicando aqui</a>, voce sera redirecionado ao projeto final. Caso nao funcione, aqui esta o link: https://valinor-marvel-api.vercel.app/
+O projeto está hospedado na vercel, <a href="https://valinor-marvel-api.vercel.app/" target="_blank">clicando aqui</a>, você será redirecionado ao projeto final. Caso não funcione, aqui está o link: https://valinor-marvel-api.vercel.app/
 
 # Princípios de Engenharia de Software 
 
-Neste projeto, utilizei o princípio de SRP - (Single Responsibility Principle), buscando dar a cada component do angular uma unica responsabilidade, facilitando o uso e deixando o codigo organizado.
+Neste projeto, utilizei o princípio de SRP - (Single Responsibility Principle), buscando dar a cada componente do Angular uma única responsabilidade, facilitando o uso e deixando o código organizado.
 
 # Porque você optou pela tecnologia X e não a Y
 
-Optei por fazer o projeto em Angular, pois foi a minha primeira framework aprendida junto ao Field Academy e tambem pela propria Field Control ja fazer uso dela.
+Optei por fazer o projeto em Angular, pois foi a minha primeira framework aprendida junto ao Field Academy e também pela própria Field Control já fazer uso dela.
 
 # Desafios encontrados e como foi resolvido 
 
-Primeiramente iniciei o projeto logo no comeco dos estudos com angular. Com isso, obtive alguma dificuldade com os components, porem com bastante pratica e dedicacao consegui ultrapassar essa barreira e comecei a organizar os components. Logo depois tive dificuldade na parte da conexao com a api da marvel, pois ela exige o dev a utilizar uma hash MD5 para acessar os dados e apos algumas pesquisas e leitura da documentacao da api, consegui fazer, tambem nao foi preciso fazer requisicao a api por ID ,pois no json inicial ja vem todas as informacoes, quanto menos requisicao a api, melhor. Alem disso o modal para apresentar os detalhes dos personagens, utilizado com o proprio UI do Angular Material foi outra dificuldade pois ainda estou em fase de aprendizado, porem consegui fazer com base no curso de angular da Udemy e bastante pesquisas por fora. Ja os testes foram bem complexos pra mim, mas consegui implementar da melhor maneira possivel com o Jasmine do angular.
-Enfrentei varios desafios ao fazer o projeto, porem com o impulso dado no Field Academy, com dedicacao e pondo bastante a mao na massa eu consegui vencer mais essa barreira e estou muito feliz comigo mesmo e sei que sou capaz de resolver os problemas. 
+Primeiramente, iniciei o projeto logo no começo dos estudos com Angular. Com isso, obtive alguma dificuldade com os components, porém, com bastante prática e dedicação, consegui ultrapassar essa barreira e comecei a organizar os components. Logo depois, tive dificuldade na parte da conexão com a API da Marvel, pois ela exige que o dev utilize uma hash MD5 para acessar os dados. Após algumas pesquisas e leitura da documentação da API, consegui fazer. Também não foi preciso fazer requisição à API por ID, pois no JSON inicial já vêm todas as informações. Quanto menos requisição à API, melhor. Além disso, o modal para apresentar os detalhes dos personagens, utilizado com o próprio UI do Angular Material, foi outra dificuldade, pois ainda estou em fase de aprendizado. Porém, consegui fazer com base no curso de Angular da Udemy e bastante pesquisas por fora. Já os testes foram bem complexos para mim, mas consegui implementar da melhor maneira possível com o Jasmine do Angular.
+Enfrentei vários desafios ao fazer o projeto, porém, com o impulso dado no Field Academy, com dedicação e pondo bastante a mão na massa, eu consegui vencer mais essa barreira e estou muito feliz comigo mesmo e sei que sou capaz de resolver os problemas.
 
 # O que poder ser melhorado e como fazer 
 
-Com base nos meus estudos, vi que com o angular e possivel fazer muitas coisas a mais no projeto, porem dedici fazer algo mais simples, mas que tenha tudo que e pedido no desafio da melhor maneira possivel, com um codigo organizado.
-Futuramente pretendo fazer uma paginacao, colocando uma pagina inicial separando melhor os personagens e as informacoes por pagina, melhorar a questao da responsividade e adicionar algumas features novas. Tambem utilizar esse projeto como base para consumir outras API's para fazer projetos diferentes.
+Com base nos meus estudos, vi que com o Angular é possível fazer muitas coisas a mais no projeto, porém decidi fazer algo mais simples, mas que tenha tudo o que é pedido no desafio da melhor maneira possível, com um código organizado. Futuramente, pretendo fazer uma paginação, colocando uma página inicial separando melhor os personagens e as informações por página, melhorar a questão da responsividade e adicionar algumas features novas. Também utilizar este projeto como base para consumir outras APIs e fazer projetos diferentes.
 
 # Sobre mim 
 
-Meu nome e Victor Job, tenho 22 anos, atualmente estou no ultimo ano do curso de engenharia da computacao na faculdade UNILAGO. Desde crianca, sempre amei a tecnologia, com 10 anos, sobre ifluencia do meu pai, eu ja mexia com as pecas dos meus computadores, sempre que tinha algum problema eu tentava resolver e as formatacoes era sempre eu que fazia e pelo que eu me lembro nunca levei um computador para uma loja de informatica, era sempre eu que colocava a mao na massa kkk.
-Ao entrar na faculdade eu comecei a conhecer um mundo novo de possibilidades com a programacao, mas como eu trabalhei como tecnico de informatica no meu segundo e terceiro ano, nao consegui progredir muito com meus estudos na area de desenvolvimento, porem no meu ultimo semestre tive mais contato com a programacao na faculdade e fui gostando ainda mais da area, com isso tive a que tomar a dificil decisao de parar de trabalhar como tecnico pra focar meus estudos na programacao que e o meu sonho. Depois disso veio o Field Academy que foi um divisor de aguas na minha vida, tanto profissional, como pessoal e que agregou muito no meus estudos e me proporcionou ter a capacidade de fazer este projeto, e claro mesmo apos o termino do treinamento estou sempre estudando e evoluindo cada dia mais e me desafiando a buscar o melhor possivel.
+Meu nome é Victor Job, tenho 22 anos, atualmente estou no último ano do curso de Engenharia da Computação na Faculdade UNILAGO. Desde criança, sempre amei a tecnologia. Com 10 anos, sob influência do meu pai, eu já mexia com as peças dos meus computadores. Sempre que tinha algum problema, eu tentava resolver, e as formatações eram sempre eu que fazia. Pelo que eu me lembro, nunca levei um computador para uma loja de informática. Era sempre eu que colocava a mão na massa, kkk.
+Ao entrar na faculdade, eu comecei a conhecer um mundo novo de possibilidades com a programação. Mas, como trabalhei como técnico de informática no meu segundo e terceiro ano, não consegui progredir muito com meus estudos na área de desenvolvimento. Porém, no meu último semestre, tive mais contato com a programação na faculdade e fui gostando ainda mais da área. Com isso, tive que tomar a difícil decisão de parar de trabalhar como técnico para focar meus estudos na programação, que é o meu sonho.
+Depois disso, veio o Field Academy, que foi um divisor de águas na minha vida, tanto profissional como pessoal, e que agregou muito aos meus estudos e me proporcionou ter a capacidade de fazer este projeto. E, claro, mesmo após o término do treinamento, estou sempre estudando, evoluindo cada dia mais e me desafiando a buscar o melhor possível.
 
 # Contatos
 
