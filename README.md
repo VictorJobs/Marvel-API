@@ -51,7 +51,7 @@ Outro problema encontrado foi o modal para apresentar os detalhes dos personagen
  Enfrentei vários desafios durante o projeto. Contudo, com o impulso dado no Field Academy, com dedicação e pratica, eu consegui superar as objeções e possíveis duvidas apresentadas no processo de criação. Em suma, quero registrar que essas dificuldades me fizeram perceber que com os estudos e pratica as minhas ações serão capazes de resolver os futuros impasses durante as minhas criações e desenvolvimentos.
 
 
-# O que poder ser melhorado e como fazer 
+# O que pode ser melhorado e como fazer 
 
 Por meio dos meus estudos eu percebi a abrangente possibilidade que o Angular traz para o projeto. Contudo, mesmo com essas amplas opções, eu optei fazer algo mais simples mas que atendesse aos pedidos do desafio de maneira excepcional e que o código ficasse organizado. Para além do que já foi feito, planejo fazer uma paginação mais adequada  – colocando uma página inicial que separa melhor os personagens – , planejo colocar as informações por página, diferente do modelo que eu utilizei que foi a SPA e pretendo colocar alguns estilos em CSS mais complexos, deixando o projeto mais harmonioso e com uma melhor responsividade. 
 
